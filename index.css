@@ -1,0 +1,49 @@
+.background {
+  background-color: white;
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+}
+
+.blue {
+  background-color: blue;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+  padding: 20px;
+}
+
+.yellow {
+
+  background-color: blue;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+  padding: 20px;
+
+}
+.green {
+
+  background-color: blue;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+  padding: 20px;
+
+
+}
+
+.red {
+
+  background-color: blue;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+  padding: 20px;
+
+}
+
